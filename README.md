@@ -7,7 +7,11 @@
 ## 🏛️ Overview
 The **Symbeon Protocol MAS (Multi-Agent System)** is a decentralized infrastructure designed for high-integrity threshold attestation. It enables the verification of multi-dimensional Real-World Asset (RWA) compliance without compromising individual data privacy.
 
-This repository serves as the **Sovereign Primitive** for all Symbeon-based protocols, including the GreenProof ESG engine.
+This repository serves as the **Sovereign Primitive** for all Symbeon-based protocols, enabling high-integrity attestation across multiple verticals:
+- **GreenProof**: ESG & Sustainability Compliance.
+- **BlueProof**: Supply Chain & Logistics Integrity.
+- **GoldProof**: Financial RWA & Credit Attestation.
+- **ClearProof**: Juridical & Patent Verification.
 
 ## 📐 Core Architecture: HAAS
 The system operates as a **Hierarchical Autonomous Agent Swarm (HAAS)**:
