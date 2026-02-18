@@ -1,4 +1,4 @@
-# 🦅 GP-MAS: Sovereign Multi-Agent System Protocol
+# 🦅 GP-MAS: symbeon-protocol-mas
 **Status**: Alpha Specification  
 **Version**: 1.0.0 (Sovereign Primitive)
 
