@@ -1,0 +1,21 @@
+{
+  "protocol": "symbeon-protocol-mas",
+  "version": "1.0.0",
+  "hierarchy": {
+    "tier_0": {
+      "name": "Strategic Core (Orchestrator)",
+      "role": "Consensus Trigger & ZK Generation",
+      "inheritance": "Chainlink CRE"
+    },
+    "tier_1": {
+      "name": "Specialist Nuclei (Agents)",
+      "role": "Domain-Specific Data Validation",
+      "types": ["Physical", "Juridical", "Ethical"]
+    },
+    "tier_2": {
+      "name": "Execution Layer",
+      "role": "State Settlement & Bridge",
+      "inheritance": "CCIP"
+    }
+  }
+}

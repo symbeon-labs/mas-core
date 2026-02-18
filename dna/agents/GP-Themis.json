@@ -1,0 +1,17 @@
+{
+  "agent_id": "GP-Themis",
+  "type": "Juridical",
+  "dna": {
+    "logic_progenitor": "symbeon-protocol::esg::governance",
+    "structural_progenitor": "th3m1s-core::juridical-audit"
+  },
+  "capabilities": [
+    "audit_regulatory_alignment",
+    "verify_structural_integrity",
+    "generate_juridical_proof"
+  ],
+  "rules": {
+    "min_compliance_score": 80,
+    "strict_mode": true
+  }
+}
